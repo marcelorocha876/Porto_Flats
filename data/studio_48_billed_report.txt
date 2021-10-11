@@ -1,0 +1,4 @@
+
+Number of busy days: 0
+
+Total billed: 0.00€

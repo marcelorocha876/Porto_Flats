@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcelo/Desktop/MARCELO/Universidade/Linguagens de Programaçao 1/Projeto 20_21/PortoFlats/main.c
+main.h
+/home/marcelo/Desktop/MARCELO/Universidade/Linguagens de Programaçao 1/Projeto 20_21/PortoFlats/main.h
+
+/home/marcelo/Desktop/MARCELO/Universidade/Linguagens de Programaçao 1/Projeto 20_21/PortoFlats/main.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

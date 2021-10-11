@@ -1,0 +1,18 @@
+
+Percentage of occupation: 7.1%
+
+	Studio id:	Occupation:
+	3			busy
+	6			free
+	7			free
+	11			free
+	12			free
+	21			free
+	27			free
+	28			free
+	31			free
+	39			free
+	40			free
+	41			free
+	43			free
+	47			free

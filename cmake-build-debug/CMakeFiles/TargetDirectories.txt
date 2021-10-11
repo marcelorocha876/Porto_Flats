@@ -1,0 +1,3 @@
+/home/marcelo/Desktop/MARCELO/Universidade/Linguagens de Programaçao 1/Projeto 20_21/PortoFlats/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marcelo/Desktop/MARCELO/Universidade/Linguagens de Programaçao 1/Projeto 20_21/PortoFlats/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marcelo/Desktop/MARCELO/Universidade/Linguagens de Programaçao 1/Projeto 20_21/PortoFlats/cmake-build-debug/CMakeFiles/PortoFlats.dir

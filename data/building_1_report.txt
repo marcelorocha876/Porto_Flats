@@ -1,0 +1,17 @@
+
+Percentage of occupation: 0.0%
+
+	Studio id:	Occupation:
+	1			free
+	2			free
+	4			free
+	5			free
+	14			free
+	17			free
+	22			free
+	23			free
+	30			free
+	35			free
+	38			free
+	44			free
+	45			free

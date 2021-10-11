@@ -1,0 +1,16 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/marce/OneDrive/Universidade/Linguagens de Programaçao 1/Projeto 20_21/PortoFlats/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_a98e9/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_a98e9.dir\build.make CMakeFiles/cmTC_a98e9.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/marce/OneDrive/Universidade/Linguagens de Programaþao 1/Projeto 20_21/PortoFlats/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a98e9.dir/testCCompiler.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_a98e9.dir\testCCompiler.c.obj   -c "C:\Users\marce\OneDrive\Universidade\Linguagens de Programa├ºao 1\Projeto 20_21\PortoFlats\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\marce\OneDrive\Universidade\Linguagens de Programa├ºao 1\Projeto 20_21\PortoFlats\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_a98e9.dir\build.make:85: CMakeFiles/cmTC_a98e9.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/marce/OneDrive/Universidade/Linguagens de Programaþao 1/Projeto 20_21/PortoFlats/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_a98e9/fast] Error 2
+
+
+

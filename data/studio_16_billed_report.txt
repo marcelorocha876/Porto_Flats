@@ -1,0 +1,4 @@
+
+Number of busy days: 1
+
+Total billed: 64.60€

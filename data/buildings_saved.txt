@@ -1,0 +1,3 @@
+edificio,nome,latitude,longitude,morada,pre√ßo_dia_m2
+-167609184,‡¶{iÓU,0.000000,0.000000,(null),0.0
+1,PF Boavista,41.162392,-8.655714,Avenida da Boavista,1.6
